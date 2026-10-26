@@ -25,3 +25,5 @@ Works on Windows 10 (1809+) and Windows 11, 64-bit.
 ⭐ **Like Sparkle? Give it a star!** It helps others find it.
 
 Found a bug or have an idea? [Open an issue](https://github.com/bryanvegards/SPARKLE---WINDOWS-NOTCH/issues).
+
+inspired by Nusa and Tini
