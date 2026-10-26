@@ -20,3 +20,8 @@ On that page, click **SparkleSetup-….exe** under **Assets** (not "Source code"
 3. Sparkle appears at the top of your screen. It updates itself from then on.
 
 Works on Windows 10 (1809+) and Windows 11, 64-bit.
+---
+
+⭐ **Like Sparkle? Give it a star!** It helps others find it.
+
+Found a bug or have an idea? [Open an issue](https://github.com/bryanvegards/SPARKLE---WINDOWS-NOTCH/issues).
